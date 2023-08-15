@@ -5,11 +5,11 @@
     justify-content: center;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     margin-top: 5%;
-    padding: 1rem;
+    padding: 0.8em;
 }
 
 #form-container div{
-    padding: 1rem;
+    padding: 0.8rem;
 }
 
 #submitButton {
@@ -28,9 +28,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 10rem;
+    height: 9rem;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    margin-top: 10%;
+    margin-top: 6%;
 }
 
 .visibility {
